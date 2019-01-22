@@ -1,2 +1,3 @@
 # hello-world
-Intro Repository
+Intro Repository.
+Python rookie -> & I'm hungry.
