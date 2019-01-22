@@ -1,3 +1,3 @@
 # hello-world
-Intro Repository
-python rookie -> hungry
+Intro Repository.
+Python rookie -> & I'm hungry.
